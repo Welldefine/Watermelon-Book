@@ -5,5 +5,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Data-Visualization_Teamwork" />
+    <orderEntry type="module" module-name="Draft" />
   </component>
 </module>
